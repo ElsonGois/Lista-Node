@@ -1,0 +1,98 @@
+(Página de Boas-Vindas):
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bem-Vindo</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Bem-Vindo à Nossa Página!</h1>
+    <p>Obrigado por visitar nossa página. Esperamos que você encontre o que procura.</p>
+    <a href="/contato">Entre em Contato</a>
+  </div>
+</body>
+</html>
+
+
+
+
+
+Arquivo contato.html (Página de Contato):
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contato</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Entre em Contato Conosco</h1>
+    <p>Para entrar em contato, utilize os detalhes abaixo:</p>
+    <ul>
+      <li>Email: elsongois@gmail.com</li>
+      <li>Telefone: (61) 99357-XXXX</li>
+      <!-- Adicione um mapa aqui, se desejar -->
+    </ul>
+    <a href="/">Voltar para a Página Inicial</a>
+  </div>
+</body>
+</html>
+
+
+
+Arquivo sobre.html (Página de Sobre):
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sobre Nossa Empresa</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Sobre Nossa Empresa</h1>
+    <h2>Quem Somos</h2>
+    <p>Somos uma empresa inovadora dedicada a fornecer soluções tecnológicas de ponta para nossos clientes em todo o mundo.</p>
+
+    <h2>Nossa Missão</h2>
+    <p>Nossa missão é simplificar a complexidade tecnológica, capacitando indivíduos e organizações a alcançar seus objetivos de forma eficiente e eficaz.</p>
+
+    <h2>Nossa Visão</h2>
+    <p>Nosso objetivo é liderar a transformação digital, proporcionando impacto positivo na vida das pessoas e no crescimento sustentável das empresas.</p>
+
+    <h2>Valores</h2>
+    <ul>
+      <li><strong>Inovação:</strong> Estamos constantemente buscando novas maneiras de criar valor para nossos clientes.</li>
+      <li><strong>Qualidade:</strong> Comprometemo-nos a entregar produtos e serviços de alta qualidade, sempre buscando a excelência.</li>
+      <li><strong>Integridade:</strong> Agimos com honestidade, transparência e ética em todas as nossas interações.</li>
+      <li><strong>Colaboração:</strong> Acreditamos no poder da colaboração e trabalhamos em conjunto para alcançar objetivos comuns.</li>
+      <li><strong>Responsabilidade:</strong> Assumimos a responsabilidade por nossas ações e nos esforçamos para causar um impacto positivo em nossa comunidade e no meio ambiente.</li>
+    </ul>
+
+    <h2>História</h2>
+    <p>Fundada em 20XX por um grupo de visionários apaixonados por tecnologia, nossa empresa começou como uma pequena startup com uma grande visão. Ao longo dos anos, expandimos nossas operações e conquistamos uma reputação sólida como líderes no setor de tecnologia.</p>
+
+    <h2>Equipe</h2>
+    <p>Nossa equipe é composta por profissionais talentosos e dedicados, com experiência em diversas áreas, incluindo desenvolvimento de software, design, análise de dados e gerenciamento de projetos.</p>
+
+    <h2>Localização</h2>
+    <p>Estamos localizados na vibrante cidade de [Nome da Cidade], no coração do centro tecnológico da região. Nossa sede está situada em um espaço moderno e inspirador, projetado para promover a criatividade e a colaboração.</p>
+
+    <a href="/">Voltar para a Página Inicial</a>
+  </div>
+</body>
+</html>
